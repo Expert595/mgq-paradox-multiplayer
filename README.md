@@ -20,3 +20,5 @@ ROLLBACK
 Install_Coop.bat preserves the first pre-co-op Data\Scripts.rvdata2 as:
   Data\Scripts.pre-coop-backup.rvdata2
 Run Uninstall_Coop.bat to restore it.
+
+Support me on ko-fi if you like what I do. To help me.  https://ko-fi.com/arielmp
